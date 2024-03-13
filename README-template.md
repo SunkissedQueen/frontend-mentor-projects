@@ -67,7 +67,9 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<!-- use emmet abbreviations for less keystrokes -->
+<!-- div.card will automatically produce opening and closing tags with a class attribute named card -->
+<div class="card"></div>
 ```
 ```css
 .proud-of-this-css {
@@ -111,3 +113,6 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 
+1. index.html
+
+structure for each line
